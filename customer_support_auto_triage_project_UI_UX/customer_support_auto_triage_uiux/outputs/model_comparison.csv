@@ -1,4 +1,0 @@
-Model,Accuracy,Precision_Weighted,Recall_Weighted,F1_Weighted
-Logistic Regression,1.0,1.0,1.0,1.0
-Linear SVM,1.0,1.0,1.0,1.0
-Multinomial Naive Bayes,1.0,1.0,1.0,1.0
